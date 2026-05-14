@@ -1,13 +1,13 @@
 # Interview ka Sawal: Batain mujhay kia aapnay kabhi PATCHING ki hai?
 > Thursday 13th May, 2026 - Day 6
 # ⚠️ MANDATORY LAB UPDATE: GUEST TOOLS PATCHING
-
+<img src="../../.github/assets/NIT PATCHING ALERT.jpg" width="500">
 ## Batch 3 ke Students tawajjo dein!
 
 > NOTE:  
 > Aapke virtual machines ki behtar monitoring aur optimization ke liye, NIT Academy infrastructure mein sab ko yeh patching karna lazmi hai.  
 > Is se aapke dashboard par nazar aanay wala **"Management Agent Not Detected"** ka error khatam ho jayega.
-
+<img src="../../.github/assets/Prepatching problem.jpg" width="500">
 ---
 
 # TASK 1
@@ -43,7 +43,7 @@ systemctl enable --now xe-linux-distribution
 # Final Submission
 
 Jab patching mukammal ho jaye aur aapke dashboard se warning khatam ho jaye:
-
+<img src="../../.github/assets/output.jpg" width="500">
 - Snipping Tool ka istemal karte hue apne terminal results aur Xen Orchestra mein nazar aanay wale green **"Agent Detected"** status ka screenshot lein.  
 
 - LinkedIn Challenge:  
