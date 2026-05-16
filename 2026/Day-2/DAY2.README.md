@@ -22,7 +22,7 @@ Isay sajagti se lein aur tamam assignments waqt par mukammal karein.
 Neeche diye gaye link par click karein taake login page tak rasai hasil karein\
 [Xen-Orchestra](https://labs.nit.academy)
 
-<img src=".././.github/assets/XO-LOGIN.jpg" width="500">\
+<img src="../../.github/assets/XO-LOGIN.jpg" width="500">\
 Apne credentials andarkarein:
 ```Text
 Username:
@@ -30,10 +30,10 @@ Password:
 ```
 2. Apne Virtual Machine (VM) Console Par Navigate Karein
 Is virtual machine par click karein jismein "sabz" dot ho:\
-<img src=".././.github/assets/XO-VM.jpg" width="700">
+<img src="../../.github/assets/XO-VM.jpg" width="700">
 
 Apne Virtual Machine ke resource ka jaizza lein:\
-<img src=".././.github/assets/XO-VM-CONSOLE.jpg" width="700">
+<img src="../../.github/assets/XO-VM-CONSOLE.jpg" width="700">
 
 "Console" tab par click karein:\
 <img src=".././.github/assets/XO-LINUX-VM.jpg" width="700">
@@ -41,10 +41,10 @@ Apne Virtual Machine ke resource ka jaizza lein:\
 Marhala 1 - "Siyah Box" par click karein
 Marhala 2 - "Enter Key" dabayein
 ```
-<img src=".././.github/assets/XO-VM-LOGIN.jpg" width="700">
+<img src="../../.github/assets/XO-VM-LOGIN.jpg" width="700">
 
 ```bash
-   unknowna1alsdjfals5 Login: root
+   Login: root
    Password: abc
    Last login: Sat Apr 18 02:51:09 on tty1
 ```
